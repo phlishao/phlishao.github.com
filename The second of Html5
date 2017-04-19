@@ -1,0 +1,7 @@
+Html5约等于html+css3+JavaScript apis ， 一句话：html5支持了css3强大的选择器和动画功能，支持了JavaScript很多的新函数，所以html5很强大。
+支持html5的浏览器目前有Firefox，chrome，Opera，Safari等
+Html5相对于前几版本新增版本：增加了<canvas>标签，增加<header>和<footer>标签，增加音频和视频嵌入功能<video>和<audio,增加离线存储功能。
+增加了<canvas>标签，这个标签就是画布，程序员可以在这里绘制图形，所以这个标签一定程度上可以替代flash
+这个小游戏中的坦克和障碍物都是画出来的，并未用图片，可以节省cpu。
+增加了<header>和<footer>标签，做到内容和结构分离，利用seo大家都知道，我们在很多网页都有头和尾部。
+增加了音频和视频的嵌入功能<video>和<audio>标签。
