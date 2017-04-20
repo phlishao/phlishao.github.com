@@ -1,0 +1,13 @@
+Html5增加了离线存储功能，功能很强大哦。
+Html5标签video只支持ogg和MP4格式，并不支持所有格式。
+web storage apis 类似于网盘。
+高级功能：语音识别功能http://www.html5china.com/course/20120530_3747.html
+,图像识别http://www.html5china.com/course/20120528_3742.html，
+html5游戏http://www.html5china.com/game/。
+<input type="text" x-webkit-speech x-webkit-grammar ="builtin:translate"/>
+html5还支持更加强大的css3的各种功能，比如动画和css3选择器（参考页面）。
+<style type="text/css">
+P:nth-child(odd){color:red}
+</style>
+Html5还支持拖放，跨文档信息，浏览器历史管理等
+增加了各大浏览器兼容性，即不同浏览器浏览同一页面，效果不一样。
